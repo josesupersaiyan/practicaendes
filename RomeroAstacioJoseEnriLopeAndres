@@ -7,7 +7,8 @@ public class Ejercicio1 {
 	private static final int LIMITE_NINNO = 12;
 	private static final int LIMITE_ADOLESCENTE = 17;
 	private static final int LIMITE_JOVEN = 29;
-	//Cambio del alumno 2 (Andrés Enri López)
+	//Cambio del alumno 2 (Andrï¿½s Enri Lï¿½pez)
+	// cambio del alumno 1 (josÃ© romero astacio)
 	private static Scanner teclado = new Scanner(System.in);
 	
 	public static void main(String[] args) {
